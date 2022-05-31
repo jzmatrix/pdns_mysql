@@ -13,6 +13,7 @@ dnsServers:
 
 dbPassword: ""
 dataPath: ""
+backupPath: ""
 
 
 replicaCount: 1
